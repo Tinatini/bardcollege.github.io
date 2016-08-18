@@ -29,8 +29,8 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "hey, how are you?"
-    "hey, what's up?"
+    "hey, how are you?",
+    "hey, what's up?",
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
